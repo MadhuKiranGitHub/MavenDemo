@@ -19,7 +19,7 @@ public class Coins {
 	public static void main(String[] args) {
 		int[] denoms = {25, 10, 5, 1};
 		int ways = makeChange(10, denoms);
-		System.out.println(ways);
+		System.out.println(ways+ " ways");
 	}
 
 }
