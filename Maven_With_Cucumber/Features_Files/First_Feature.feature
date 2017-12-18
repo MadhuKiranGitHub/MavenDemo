@@ -9,4 +9,4 @@ Feature: Login Page
       | username | password  |
       | madhu1   | password1 |
       | madhu2   | password2 |
-      | madhu3   | password3 |
+    
